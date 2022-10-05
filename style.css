@@ -229,7 +229,10 @@ body {
   width: 50%;
   text-align: right;
 }
-
+.cont2 .center .container .l-box img {
+  width: 70%;
+  height: auto;
+}
 .facts {
   display: flex;
   justify-content: center;
